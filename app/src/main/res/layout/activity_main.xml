@@ -17,11 +17,19 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="175dp"
-        android:layout_height="148dp"
+        android:layout_width="165dp"
+        android:layout_height="25dp"
         android:height="10dp"
         android:text="Helllowwww arrowwwww"
-        tools:layout_editor_absoluteX="52dp"
-        tools:layout_editor_absoluteY="68dp" />
+        tools:layout_editor_absoluteX="110dp"
+        tools:layout_editor_absoluteY="74dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CLICK ME !"
+        tools:layout_editor_absoluteX="146dp"
+        tools:layout_editor_absoluteY="310dp" />
 
 </android.support.constraint.ConstraintLayout>
