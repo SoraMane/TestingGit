@@ -29,7 +29,7 @@
         android:layout_marginTop="8dp"
         android:contentDescription="Name"
         android:ems="10"
-        android:hint="User ID"
+        android:hint="Rushya la disat nahi"
         android:inputType="textPersonName"
         app:layout_constraintBottom_toTopOf="@+id/login_button"
         app:layout_constraintHorizontal_bias="0.506"
